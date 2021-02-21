@@ -1,0 +1,22 @@
+{
+  "name": "plain-math.js",
+  "version": "1.0.0",
+  "description": "Plain Math!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smars-h/plain-math.js.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "smarsh1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smars-h/plain-math.js/issues"
+  },
+  "homepage": "https://github.com/smars-h/plain-math.js#readme"
+}
